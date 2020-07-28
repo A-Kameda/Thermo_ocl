@@ -1,5 +1,6 @@
 # Thermo_ocl
 A 3D FDM program of thermal calculation with Fabry–Pérot interferometry simulator.
+This is used in the paper ["Precise measurement of the temperature of a silicon wafer by an optical-interference contactless thermometer during rapid plasma processing"](https://aip.scitation.org/doi/10.1063/1.5143834) I wrote.
 
 ## Requirements
 2 header files are required.
