@@ -8,8 +8,10 @@ A 3D FDM thermal calculation program powered by OpenCL
 
 ## Compilation
 GCC (mingw-w64) is preferred.
+```
 OpenCL(Intel SDK)：g++.exe -I"C:/intel/OpenCL/sdk/include" -"C:/intel/OpenCL/sdk/lib/x64" -std=c++11  .\[.cppファイル] -v -lOpenCL -static -O2
 OpenCL(CUDA Toolkit)：g++.exe -I"%CUDA_PATH%/include/" -L"%CUDA_PATH%/lib/x64" -std=c++11 .\[.cppファイル] -v -lOpenCL -static -O2
+```
 
 ## Usage
-There is no document for it, but you can read the codes easily because they are procedural and very simple .
+There is no document for it, but you can read the codes easily because they are procedural and very simple.
