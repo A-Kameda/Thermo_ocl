@@ -1,5 +1,5 @@
 # Thermo_ocl
-A 3D FDM thermal calculation program powered by OpenCL
+A 3D FDM program of thermal calculation with Fabry–Pérot interferometry simulator.
 
 ## Requirements
 2 header files are required.
